@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React.js  
+- 🌱 I’m currently learning ABAP and Fiori  
 - 💬 Ask me about Anything 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm growing flowers and seedlings!
